@@ -27,7 +27,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640251987488</updated>
-      <workItem from="1640251988769" duration="23902000" />
+      <workItem from="1640251988769" duration="38782000" />
     </task>
     <servers />
   </component>
@@ -39,5 +39,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1640318478724" />
+    <state x="445" y="0" width="831" height="338" key="dock-window-1" timestamp="1640413235656">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="445" y="0" width="831" height="338" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1640413235656" />
   </component>
 </project>
